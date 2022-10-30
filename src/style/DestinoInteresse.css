@@ -1,0 +1,19 @@
+.pessoal {
+    background-color: lightblue;
+    border: 3px solid lightgray;
+    margin: 2rem;
+    padding: 2rem;
+
+}
+
+.interesse {
+    background-color: lightblue;
+    border: 3px solid lightgray;
+    margin: 2rem;
+    padding: 2rem;
+}
+
+.b-enviar{
+    margin: 1rem;
+    padding: 1rem;
+}
